@@ -1,0 +1,2 @@
+# ![logo](https://github.com/Kostya0Sim/Sophisticated-Storage-DM/blob/main/pack.png) Sophisticated Storage: DM
+This resource pack changes the appearance of the [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) mod's GUI to the darker and less saturated tones like in a [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) resource pack.
